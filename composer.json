@@ -4,10 +4,10 @@
     "type": "library",
     "keywords": [
         "arcane",
-        "plassloader",
+        "classloader",
         "psr-0"
     ],
-    "homepage": "https://github.com/ivarbergman/arcane/classloader/",
+    "homepage": "https://github.com/ivarbergman/arcane_classloader",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/ivarbergman/arcane/issues",
+        "issues": "https://github.com/ivarbergman/arcane_classloader/issues",
     },
     "minimum-stability": "dev",
     "require": {
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-0": [
-            "Arcane":"arcane/"
+            "Arcane":"arcane"
         ]
     },
 }
