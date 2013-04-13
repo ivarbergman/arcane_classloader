@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/ivarbergman/arcane_classloader/issues",
+        "issues": "https://github.com/ivarbergman/arcane_classloader/issues"
     },
     "minimum-stability": "dev",
     "require": {
@@ -27,8 +27,8 @@
         "ext-spl": "*"
     },
     "autoload": {
-        "psr-0": [
+        "psr-0": {
             "Arcane":"arcane"
-        ]
-    },
+        }
+    }
 }
