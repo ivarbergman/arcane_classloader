@@ -1,6 +1,7 @@
 {
     "name": "arcane/classloader",
     "description": "The Arcane Classloader.",
+    "version": "0.1",
     "type": "library",
     "keywords": [
         "arcane",
